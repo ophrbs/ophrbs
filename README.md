@@ -1,6 +1,6 @@
 ---
 
-<img src="https://i.imgur.com/tS3wVZs.jpeg" height="561,3px" width="397" align="left">
+<img src="https://i.imgur.com/tS3wVZs.jpeg" width="222" align="right">
 
 ```CSS
 about.me
