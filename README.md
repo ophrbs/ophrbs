@@ -1,7 +1,5 @@
 ---
 
-<img src="https://i.imgur.com/tS3wVZs.jpeg" width="222" align="right">
-
 ```CSS
 about.me
   {
